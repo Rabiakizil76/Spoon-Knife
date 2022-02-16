@@ -1,0 +1,7 @@
+https://github.com/Rabiakizil76/GitCheckPoint.git
+
+https://github.com/Rabiakizil76/Spoon-Knife.git
+
+1: git log
+2:git status
+3:git init
